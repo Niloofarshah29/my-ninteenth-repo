@@ -1,7 +1,7 @@
 # my-ninteenth-repo
 my test repo
 import random
-import string
+import strin
 
 chars = string.ascii_letters + string.digits + "!@#$%^&*"
 password = "".join(random.choice(chars) for _ in range(12))
