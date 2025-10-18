@@ -1,6 +1,6 @@
 # my-ninteenth-repo
 my test repo
-import random
+import rando
 import string
 
 chars = string.ascii_letters + string.digits + "!@#$%^&*"
